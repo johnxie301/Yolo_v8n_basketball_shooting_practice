@@ -19,4 +19,4 @@ What it can do now:
 
 
 ## Demo
-[![Watch the video](https://img.youtube.com/vi/lacjpBw0ZoU/maxresdefault.jpg)](https://www.youtube.com/watch?v=lacjpBw0ZoU)
+https://www.youtube.com/watch?v=lacjpBw0ZoU
