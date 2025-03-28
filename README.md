@@ -19,7 +19,4 @@ What it can do now:
 
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lacjpBw0ZoU" frameborder="0" allowfullscreen></iframe>
-https://www.youtube.com/watch?v=lacjpBw0ZoU
-
-
+[![Watch the video](https://img.youtube.com/vi/lacjpBw0ZoU/maxresdefault.jpg)](https://www.youtube.com/watch?v=lacjpBw0ZoU)
