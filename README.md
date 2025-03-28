@@ -19,6 +19,7 @@ What it can do now:
 
 
 ## Demo
-![Demo](https://youtu.be/lacjpBw0ZoU)
+<iframe width="560" height="315" src="https://youtu.be/lacjpBw0ZoU" frameborder="0" allowfullscreen></iframe>
+
 
 
