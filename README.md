@@ -19,7 +19,7 @@ What it can do now:
 
 
 ## Demo
-<iframe width="560" height="315" src="https://youtu.be/lacjpBw0ZoU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lacjpBw0ZoU" frameborder="0" allowfullscreen></iframe>
 
 
 
